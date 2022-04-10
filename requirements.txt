@@ -1,6 +1,4 @@
 streamlit==1.0.0
-from PIL import ImageDraw
-from PIL import ImageFont
-
+PIL
 azure
 msrests
